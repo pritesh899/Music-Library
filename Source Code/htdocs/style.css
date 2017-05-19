@@ -1,0 +1,38 @@
+h2{
+	font-family: "Lucida Console";
+	font-size: 35px;
+	text-alight : center;
+	color: #E3D3D3;
+}
+.logo {
+	top: 600px;
+	left:-500px;
+}
+.search_button {
+	height: 55px;
+	width: 75px;
+}
+.search_bar {
+	height: 50px;
+	width: 600px;
+}
+.button {
+	display: inline-block;
+	height: 40px;
+	width: 70px;
+	/*font-size: 20px;*/
+}
+/* body{
+
+	background-image : url("http://i.imgur.com/rUbK3WY.jpg");
+	background-size: 1000px 1000px;
+	background-repeat: no-repeat
+	background-size:cover;
+} */
+html { 
+  background: url("https://static.pexels.com/photos/8263/pexels-photo.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
