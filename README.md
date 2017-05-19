@@ -1,0 +1,3 @@
+# Music-Project
+
+The purpose of this project is to serve the user’s expectations regarding the music library management. In current scenario users from different background expect to sort the music library as per name of singer, genre, frequency of playing, rating, popularity, date of release in market, latest release, albums etc. The project has the feature of user commenting on the content of the website, which will be later reviewed by the administrator. In this project, we are going to implement a library sorting algorithm which will help user to do the library management in an efficient way. The techniques implemented will help the user to get the desired music of his interest.
