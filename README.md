@@ -10,3 +10,5 @@ In this project, we will have the tables for artists, genre, frequency of playin
 Requirements : MAMP or WAMP server, phpMyAdmin
 
 To run the project follow the instructions from Readme.docx file 
+
+![alt text](https://github.com/pritesh899/Music-Library/blob/master/Source%20Code/1.png)
